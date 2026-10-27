@@ -37,4 +37,5 @@
 ## 快速开始
 [保姆级教程](https://ezho.top/code/2025/02/21/notion-bookmarks-handbook)
 
-
+# For git & github study
+summer holiday
